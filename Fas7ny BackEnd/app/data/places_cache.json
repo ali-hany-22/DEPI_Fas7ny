@@ -1,0 +1,2133 @@
+{
+  "hurghada::place::سيناي بيتش": {
+    "cached_at": "2026-07-12T03:28:58.807161",
+    "data": [
+      {
+        "name": "سيناي بيتش",
+        "address": "SUNRISE Remal Beach Resort, شارع اتينا, النبق, رأس نصراني, شرم الشيخ, رأس أم سد, جنوب سيناء, 46619, مصر",
+        "city": "Sharm El Sheikh",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 27.9650793,
+        "longitude": 34.415763,
+        "google_maps": "https://www.google.com/maps?q=27.9650793,34.415763",
+        "image_url": "https://images.unsplash.com/photo-1708694423464-0f5b19fb2444?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQjMlRDklOEElRDklODYlRDglQTclRDklOEElMjAlRDglQTglRDklOEElRDglQUElRDglQjQlMjBTaGFybSUyMEVsJTIwU2hlaWtoJTIwRWd5cHR8ZW58MHwwfHx8MTc4MzgxNjEzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-relation-12163215"
+      }
+    ]
+  },
+  "hurghada::place::مطعم سند بيتش": {
+    "cached_at": "2026-07-12T03:29:07.938162",
+    "data": []
+  },
+  "hurghada::place::ملاهي ماكادي بيتش": {
+    "cached_at": "2026-07-12T03:29:16.439144",
+    "data": []
+  },
+  "hurghada::place::سينما صن رايز": {
+    "cached_at": "2026-07-12T03:29:28.072979",
+    "data": []
+  },
+  "hurghada::place::مطعم بيردايز": {
+    "cached_at": "2026-07-12T03:29:36.578494",
+    "data": []
+  },
+  "hurghada::place::مركز الغوص في الغردقة": {
+    "cached_at": "2026-07-12T03:29:45.138019",
+    "data": []
+  },
+  "hurghada::place::شاطئ صن رايز أرابيان بيتش ريزورت": {
+    "cached_at": "2026-07-12T03:41:35.242880",
+    "data": [
+      {
+        "name": "El Fanadir Dacht Dacht",
+        "address": "Hurghada",
+        "city": "Hurghada",
+        "country": null,
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 27.275816,
+        "longitude": 33.8334747,
+        "google_maps": "https://www.google.com/maps?q=27.275816,33.8334747",
+        "image_url": "https://images.unsplash.com/photo-1738935457539-936fdb320c51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxFbCUyMEZhbmFkaXIlMjBEYWNodCUyMERhY2h0JTIwSHVyZ2hhZGElMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODE2ODk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-3755841120"
+      }
+    ]
+  },
+  "hurghada::place::مطعم سي فيو": {
+    "cached_at": "2026-07-12T03:41:48.493710",
+    "data": [
+      {
+        "name": "Das Deutsche Restaurant mit Biergarten",
+        "address": "Hurghada",
+        "city": "Hurghada",
+        "country": null,
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 27.2601389,
+        "longitude": 33.8126484,
+        "google_maps": "https://www.google.com/maps?q=27.2601389,33.8126484",
+        "image_url": "https://images.unsplash.com/photo-1722937900605-c652f94cf323?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxEYXMlMjBEZXV0c2NoZSUyMFJlc3RhdXJhbnQlMjBtaXQlMjBCaWVyZ2FydGVuJTIwSHVyZ2hhZGElMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODE2OTA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-2790782623"
+      }
+    ]
+  },
+  "hurghada::place::سينما رويال": {
+    "cached_at": "2026-07-12T03:42:04.744844",
+    "data": [
+      {
+        "name": "El Fanadir Dacht Dacht",
+        "address": "Hurghada",
+        "city": "Hurghada",
+        "country": null,
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 27.275816,
+        "longitude": 33.8334747,
+        "google_maps": "https://www.google.com/maps?q=27.275816,33.8334747",
+        "image_url": "https://images.unsplash.com/photo-1738935457539-936fdb320c51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxFbCUyMEZhbmFkaXIlMjBEYWNodCUyMERhY2h0JTIwSHVyZ2hhZGElMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODE2ODk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-3755841120"
+      }
+    ]
+  },
+  "hurghada::place::منتزه سنايو بيتش": {
+    "cached_at": "2026-07-12T03:42:16.782377",
+    "data": [
+      {
+        "name": "منتزه سنايو بيتش",
+        "address": "Senzo Mall, ميدان الف ليله و ليله, الغردقة, البحر الأحمر, مصر",
+        "city": "Hurghada",
+        "country": "مصر",
+        "rating": 4.2,
+        "reviews": 2200,
+        "popularity_score": 86,
+        "popularity": "High",
+        "latitude": 27.0951256,
+        "longitude": 33.8220134,
+        "google_maps": "https://www.google.com/maps?q=27.0951256,33.8220134",
+        "image_url": "https://images.unsplash.com/photo-1738935457539-936fdb320c51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDklODYlRDglQUElRDglQjIlRDklODclMjAlRDglQjMlRDklODYlRDglQTclRDklOEElRDklODglMjAlRDglQTglRDklOEElRDglQUElRDglQjQlMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODE2OTM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-152178587"
+      }
+    ]
+  },
+  "hurghada::place::مطعم البحار": {
+    "cached_at": "2026-07-12T03:42:27.114764",
+    "data": [
+      {
+        "name": "Das Deutsche Restaurant mit Biergarten",
+        "address": "Hurghada",
+        "city": "Hurghada",
+        "country": null,
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 27.2601389,
+        "longitude": 33.8126484,
+        "google_maps": "https://www.google.com/maps?q=27.2601389,33.8126484",
+        "image_url": "https://images.unsplash.com/photo-1722937900605-c652f94cf323?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxEYXMlMjBEZXV0c2NoZSUyMFJlc3RhdXJhbnQlMjBtaXQlMjBCaWVyZ2FydGVuJTIwSHVyZ2hhZGElMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODE2OTA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-2790782623"
+      }
+    ]
+  },
+  "hurghada::place::نادي الغوص": {
+    "cached_at": "2026-07-12T03:42:39.193894",
+    "data": [
+      {
+        "name": "نادي الغوص",
+        "address": "Aquarius Diving Club, شارع الشيراتون, القرى السياحية, الفرسان, الغردقة, البحر الأحمر, 54811, مصر",
+        "city": "Hurghada",
+        "country": "مصر",
+        "rating": 4.2,
+        "reviews": 220,
+        "popularity_score": 79,
+        "popularity": "High",
+        "latitude": 27.19709,
+        "longitude": 33.8450664,
+        "google_maps": "https://www.google.com/maps?q=27.19709,33.8450664",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+        "place_id": "osm-node-11974012580"
+      }
+    ]
+  },
+  "hurghada::place::رويال سافوي شرم الشيخ": {
+    "cached_at": "2026-07-12T04:03:30.891115",
+    "data": [
+      {
+        "name": "Meraki",
+        "address": "Hurghada",
+        "city": "Hurghada",
+        "country": null,
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 27.260505,
+        "longitude": 33.8165045,
+        "google_maps": "https://www.google.com/maps?q=27.260505,33.8165045",
+        "image_url": "https://images.unsplash.com/photo-1633033254409-bd538e785f51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxNZXJha2klMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODE4MjExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-7851822385"
+      }
+    ]
+  },
+  "hurghada::place::سينما رويال سافوي": {
+    "cached_at": "2026-07-12T04:03:45.028741",
+    "data": [
+      {
+        "name": "El Fanadir Dacht Dacht",
+        "address": "Hurghada",
+        "city": "Hurghada",
+        "country": null,
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 27.275816,
+        "longitude": 33.8334747,
+        "google_maps": "https://www.google.com/maps?q=27.275816,33.8334747",
+        "image_url": "https://images.unsplash.com/photo-1738935457539-936fdb320c51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxFbCUyMEZhbmFkaXIlMjBEYWNodCUyMERhY2h0JTIwSHVyZ2hhZGElMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODE2ODk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-3755841120"
+      }
+    ]
+  },
+  "hurghada::place::مطعم بيلو": {
+    "cached_at": "2026-07-12T04:05:21.448023",
+    "data": []
+  },
+  "hurghada::place::شاطئ رويال سافوي": {
+    "cached_at": "2026-07-12T04:05:36.475611",
+    "data": [
+      {
+        "name": "El Sawaki Camp",
+        "address": "Hurghada",
+        "city": "Hurghada",
+        "country": null,
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 27.2591273,
+        "longitude": 33.8243242,
+        "google_maps": "https://www.google.com/maps?q=27.2591273,33.8243242",
+        "image_url": "https://images.unsplash.com/photo-1722264219947-725d4e20ef23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxIdXJnaGFkYXxlbnwwfDB8fHwxNzgzODE4MzM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-171487927"
+      }
+    ]
+  },
+  "hurghada::place::حديقة سناي أيلاند": {
+    "cached_at": "2026-07-12T04:05:51.384099",
+    "data": [
+      {
+        "name": "Nasr st Gardens",
+        "address": "Hurghada",
+        "city": "Hurghada",
+        "country": null,
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 27.2579944,
+        "longitude": 33.8107265,
+        "google_maps": "https://www.google.com/maps?q=27.2579944,33.8107265",
+        "image_url": "https://images.unsplash.com/photo-1722264219947-725d4e20ef23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxIdXJnaGFkYXxlbnwwfDB8fHwxNzgzODE4MzM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-817928196"
+      }
+    ]
+  },
+  "hurghada::place::مطعم الشرباتي": {
+    "cached_at": "2026-07-12T04:06:06.641408",
+    "data": [
+      {
+        "name": "Das Deutsche Restaurant mit Biergarten",
+        "address": "Hurghada",
+        "city": "Hurghada",
+        "country": null,
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 27.2601389,
+        "longitude": 33.8126484,
+        "google_maps": "https://www.google.com/maps?q=27.2601389,33.8126484",
+        "image_url": "https://images.unsplash.com/photo-1722937900605-c652f94cf323?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxEYXMlMjBEZXV0c2NoZSUyMFJlc3RhdXJhbnQlMjBtaXQlMjBCaWVyZ2FydGVuJTIwSHVyZ2hhZGElMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODE2OTA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-2790782623"
+      }
+    ]
+  },
+  "hurghada::place::مركز الغردقة للمغامرات": {
+    "cached_at": "2026-07-12T04:06:19.850431",
+    "data": [
+      {
+        "name": "El Fanadir Dacht Dacht",
+        "address": "Hurghada",
+        "city": "Hurghada",
+        "country": null,
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 27.275816,
+        "longitude": 33.8334747,
+        "google_maps": "https://www.google.com/maps?q=27.275816,33.8334747",
+        "image_url": "https://images.unsplash.com/photo-1738935457539-936fdb320c51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxFbCUyMEZhbmFkaXIlMjBEYWNodCUyMERhY2h0JTIwSHVyZ2hhZGElMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODE2ODk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-3755841120"
+      }
+    ]
+  },
+  "hurghada::place::sindbad submarine": {
+    "cached_at": "2026-07-12T17:05:44.331134",
+    "data": [
+      {
+        "name": "El Fanadir Dacht Dacht",
+        "address": "Hurghada",
+        "city": "Hurghada",
+        "country": null,
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 27.275816,
+        "longitude": 33.8334747,
+        "google_maps": "https://www.google.com/maps?q=27.275816,33.8334747",
+        "image_url": "https://images.unsplash.com/photo-1738935457539-936fdb320c51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxFbCUyMEZhbmFkaXIlMjBEYWNodCUyMERhY2h0JTIwSHVyZ2hhZGElMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODE2ODk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-3755841120"
+      }
+    ]
+  },
+  "hurghada::place::star fish restaurant": {
+    "cached_at": "2026-07-12T17:05:56.246571",
+    "data": [
+      {
+        "name": "Star Fish Restaurant",
+        "address": "Star Fish, شارع الفندق, الميناء, مارينا الغردقة, الغردقة, البحر الأحمر, 84532, مصر",
+        "city": "Hurghada",
+        "country": "مصر",
+        "rating": 4.1,
+        "reviews": 10800,
+        "popularity_score": 86,
+        "popularity": "High",
+        "latitude": 27.2259074,
+        "longitude": 33.8375747,
+        "google_maps": "https://www.google.com/maps?q=27.2259074,33.8375747",
+        "image_url": "https://images.unsplash.com/photo-1709224133988-4ed97b8571d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxTdGFyJTIwRmlzaCUyMFJlc3RhdXJhbnQlMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODY1MTQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-6913157589"
+      }
+    ]
+  },
+  "hurghada::place::hurghada city center": {
+    "cached_at": "2026-07-12T17:06:09.970508",
+    "data": [
+      {
+        "name": "Hurghada City Center",
+        "address": "Hurghada City Center, شارع البحر, الدهار, Arabia, الغردقة, البحر الأحمر, 84935, مصر",
+        "city": "Hurghada",
+        "country": "مصر",
+        "rating": 4.3,
+        "reviews": 8400,
+        "popularity_score": 90,
+        "popularity": "High",
+        "latitude": 27.2560119,
+        "longitude": 33.8295691,
+        "google_maps": "https://www.google.com/maps?q=27.2560119,33.8295691",
+        "image_url": "https://images.unsplash.com/photo-1722264219947-725d4e20ef23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxIdXJnaGFkYXxlbnwwfDB8fHwxNzgzODE4MzM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-601790325"
+      }
+    ]
+  },
+  "hurghada::place::grand cinema hurghada city center": {
+    "cached_at": "2026-07-12T17:06:31.249781",
+    "data": [
+      {
+        "name": "El Fanadir Dacht",
+        "address": "Hurghada",
+        "city": "Hurghada",
+        "country": null,
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 27.2847068,
+        "longitude": 33.8317727,
+        "google_maps": "https://www.google.com/maps?q=27.2847068,33.8317727",
+        "image_url": "https://images.unsplash.com/photo-1738935457539-936fdb320c51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxFbCUyMEZhbmFkaXIlMjBEYWNodCUyMEh1cmdoYWRhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg2NTE5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-3755841121"
+      }
+    ]
+  },
+  "hurghada::place::jungle aqua park": {
+    "cached_at": "2026-07-12T17:06:45.173208",
+    "data": [
+      {
+        "name": "Jungle Aqua Park",
+        "address": "Jungle Aqua Park Resort, طريق الغردقة, سفاجا, الغردقة, البحر الأحمر, مصر",
+        "city": "Hurghada",
+        "country": "مصر",
+        "rating": 4.7,
+        "reviews": 18500,
+        "popularity_score": 96,
+        "popularity": "High",
+        "latitude": 27.0867833,
+        "longitude": 33.8215231,
+        "google_maps": "https://www.google.com/maps?q=27.0867833,33.8215231",
+        "image_url": "https://images.unsplash.com/photo-1738935457539-936fdb320c51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxKdW5nbGUlMjBBcXVhJTIwUGFyayUyMEh1cmdoYWRhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg2NTE5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-1442800284"
+      }
+    ]
+  },
+  "hurghada::place::sand city hurghada": {
+    "cached_at": "2026-07-12T17:06:57.642525",
+    "data": [
+      {
+        "name": "Sand City Hurghada",
+        "address": "Sand City Museum, ميدان الف ليله و ليله, الغردقة, البحر الأحمر, 84517, مصر",
+        "city": "Hurghada",
+        "country": "مصر",
+        "rating": 4.1,
+        "reviews": 3800,
+        "popularity_score": 86,
+        "popularity": "High",
+        "latitude": 27.0995387,
+        "longitude": 33.8230215,
+        "google_maps": "https://www.google.com/maps?q=27.0995387,33.8230215",
+        "image_url": "https://images.unsplash.com/photo-1755545760275-abd2f1b8ed2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxTYW5kJTIwQ2l0eSUyMEh1cmdoYWRhJTIwSHVyZ2hhZGElMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODY1MjA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-1120405392"
+      }
+    ]
+  },
+  "hurghada::place::hurghada marina": {
+    "cached_at": "2026-07-12T17:07:01.226990",
+    "data": [
+      {
+        "name": "Hurghada Marina",
+        "address": "Port Hurghada, شارع الشهداء, الميناء, مارينا الغردقة, الغردقة, البحر الأحمر, 84532, مصر",
+        "city": "Hurghada",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 27.2286952,
+        "longitude": 33.8435172,
+        "google_maps": "https://www.google.com/maps?q=27.2286952,33.8435172",
+        "image_url": "https://images.unsplash.com/photo-1738935457539-936fdb320c51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxIdXJnaGFkYSUyME1hcmluYSUyMEh1cmdoYWRhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg2NTIyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-1822968223"
+      }
+    ]
+  },
+  "hurghada::place::the lodge restaurant": {
+    "cached_at": "2026-07-12T17:07:14.287231",
+    "data": [
+      {
+        "name": "The Lodge Restaurant",
+        "address": "The Lodge, شارع الشهداء, الميناء, مارينا الغردقة, الغردقة, البحر الأحمر, 84532, مصر",
+        "city": "Hurghada",
+        "country": "مصر",
+        "rating": 4.4,
+        "reviews": 1100,
+        "popularity_score": 87,
+        "popularity": "High",
+        "latitude": 27.2256845,
+        "longitude": 33.8408876,
+        "google_maps": "https://www.google.com/maps?q=27.2256845,33.8408876",
+        "image_url": "https://images.unsplash.com/photo-1655755001673-0d6ef8b25496?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxUaGUlMjBMb2RnZSUyMFJlc3RhdXJhbnQlMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODY1MjI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-12318639316"
+      }
+    ]
+  },
+  "luxor::place::فندق بوب مارلي بيس الأقصر": {
+    "cached_at": "2026-07-12T17:12:28.652928",
+    "data": [
+      {
+        "name": "Royal House Hotel",
+        "address": "Luxor",
+        "city": "Luxor",
+        "country": "مصر",
+        "rating": 3.6,
+        "reviews": 190,
+        "popularity_score": 70,
+        "popularity": "High",
+        "latitude": 25.6883459,
+        "longitude": 32.6349903,
+        "google_maps": "https://www.google.com/maps?q=25.6883459,32.6349903",
+        "image_url": "https://images.unsplash.com/photo-1698163454653-2dd7f308807c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxSb3lhbCUyMEhvdXNlJTIwSG90ZWx8ZW58MHwwfHx8MTc4Mzg2NTU0MHww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-476622609"
+      }
+    ]
+  },
+  "luxor::place::معبد الكرنك": {
+    "cached_at": "2026-07-12T17:12:40.625600",
+    "data": [
+      {
+        "name": "معبد الكرنك",
+        "address": "معبد الكرنك, شارع الشيخ موسى, الكرنك القديم, الأقصر, 81693, مصر",
+        "city": "الكرنك القديم",
+        "country": "مصر",
+        "rating": 4.8,
+        "reviews": 31000,
+        "popularity_score": 97,
+        "popularity": "High",
+        "latitude": 25.7159179,
+        "longitude": 32.6578415,
+        "google_maps": "https://www.google.com/maps?q=25.7159179,32.6578415",
+        "image_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDglQjklRDglQTglRDglQUYlMjAlRDglQTclRDklODQlRDklODMlRDglQjElRDklODYlRDklODMlMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODY1NTUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-relation-14358790"
+      }
+    ]
+  },
+  "luxor::place::مطعم سفرة": {
+    "cached_at": "2026-07-12T17:13:02.384697",
+    "data": [
+      {
+        "name": "مطعم سفرة",
+        "address": "Sofra, شارع 11, مدينه الاقصر, الأقصر, 85951, مصر",
+        "city": "Luxor",
+        "country": "مصر",
+        "rating": 4.4,
+        "reviews": 1900,
+        "popularity_score": 89,
+        "popularity": "High",
+        "latitude": 25.6948929,
+        "longitude": 32.6422607,
+        "google_maps": "https://www.google.com/maps?q=25.6948929,32.6422607",
+        "image_url": "https://images.unsplash.com/photo-1678388103971-25c5d15c85eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDglQjclRDglQjklRDklODUlMjAlRDglQjMlRDklODElRDglQjElRDglQTklMjBMdXhvciUyMEVneXB0fGVufDB8MHx8fDE3ODM4NjU1NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-4702725243"
+      }
+    ]
+  },
+  "luxor::place::معبد الأقصر": {
+    "cached_at": "2026-07-12T17:13:11.997137",
+    "data": [
+      {
+        "name": "معبد الأقصر",
+        "address": "معبد الأقصر, طريق الكباش, الكرنك القديم, الأقصر, 81693, مصر",
+        "city": "الكرنك القديم",
+        "country": "مصر",
+        "rating": 4.8,
+        "reviews": 29000,
+        "popularity_score": 97,
+        "popularity": "High",
+        "latitude": 25.699525,
+        "longitude": 32.6390695,
+        "google_maps": "https://www.google.com/maps?q=25.699525,32.6390695",
+        "image_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDglQjklRDglQTglRDglQUYlMjAlRDglQTclRDklODQlRDglQTMlRDklODIlRDglQjUlRDglQjElMjAlRDglQTclRDklODQlRDklODMlRDglQjElRDklODYlRDklODMlMjAlRDglQTclRDklODQlRDklODIlRDglQUYlRDklOEElRDklODUlMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODY1NTg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-1079039494"
+      }
+    ]
+  },
+  "luxor::place::فلوكة في النيل": {
+    "cached_at": "2026-07-12T17:14:58.517330",
+    "data": []
+  },
+  "luxor::place::مطعم الممر السحابي الأثري": {
+    "cached_at": "2026-07-12T17:15:30.170700",
+    "data": [
+      {
+        "name": "مطعم الممر السحابي الأثري",
+        "address": "Al-Sahaby Lane Restaurant, حارة البطالسة, Souk de Louxor, مدينه الاقصر, الأقصر, 85951, مصر",
+        "city": "Luxor",
+        "country": "مصر",
+        "rating": 4.4,
+        "reviews": 1800,
+        "popularity_score": 89,
+        "popularity": "High",
+        "latitude": 25.7015002,
+        "longitude": 32.642333,
+        "google_maps": "https://www.google.com/maps?q=25.7015002,32.642333",
+        "image_url": "https://images.unsplash.com/photo-1561714645-2b6505711ee0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDglQjclRDglQjklRDklODUlMjAlRDglQTclRDklODQlRDklODUlRDklODUlRDglQjElMjAlRDglQTclRDklODQlRDglQjMlRDglQUQlRDglQTclRDglQTglRDklOEElMjAlRDglQTclRDklODQlRDglQTMlRDglQUIlRDglQjElRDklOEElMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODY1NzE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-6982647985"
+      }
+    ]
+  },
+  "luxor::place::وادي الملوك": {
+    "cached_at": "2026-07-12T17:15:41.682132",
+    "data": [
+      {
+        "name": "وادي الملوك",
+        "address": "وادي الملوك, Al-Qurna, مدينه القرنة الجديدة, الأقصر, مصر",
+        "city": "Luxor",
+        "country": "مصر",
+        "rating": 4.7,
+        "reviews": 31200,
+        "popularity_score": 96,
+        "popularity": "High",
+        "latitude": 25.7404899,
+        "longitude": 32.6017581,
+        "google_maps": "https://www.google.com/maps?q=25.7404899,32.6017581",
+        "image_url": "https://images.unsplash.com/photo-1664591932515-2e06590132e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODglRDglQTclRDglQUYlRDklOEElMjAlRDglQTclRDklODQlRDklODUlRDklODQlRDklODglRDklODMlMjBMdXhvciUyMEVneXB0fGVufDB8MHx8fDE3ODM4NjU3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-115773400"
+      }
+    ]
+  },
+  "luxor::place::معبد حتشبسوت": {
+    "cached_at": "2026-07-12T17:15:51.799542",
+    "data": [
+      {
+        "name": "معبد حتشبسوت",
+        "address": "معبد حتشبسوت, طريق معبد حتشبسوت, Al-Qurna, مدينه القرنة الجديدة, الأقصر, 85958, مصر",
+        "city": "Luxor",
+        "country": "مصر",
+        "rating": 4.7,
+        "reviews": 27500,
+        "popularity_score": 96,
+        "popularity": "High",
+        "latitude": 25.7383391,
+        "longitude": 32.6064411,
+        "google_maps": "https://www.google.com/maps?q=25.7383391,32.6064411",
+        "image_url": "https://images.unsplash.com/photo-1632944398987-494eebe663be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDglQjklRDglQTglRDglQUYlMjAlRDglQUQlRDglQUElRDglQjQlRDglQTglRDglQjMlRDklODglRDglQUElMjBMdXhvciUyMEVneXB0fGVufDB8MHx8fDE3ODM4NjU3NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-2609000208"
+      }
+    ]
+  },
+  "luxor::place::تمثالا ممنون": {
+    "cached_at": "2026-07-12T17:16:17.662178",
+    "data": [
+      {
+        "name": "تمثالا ممنون",
+        "address": "عملاق ممنون, شارع تمثال ممنون, الجزيرة الوسطى, قريه البعيرات, Al-Qarnah, الأقصر, 85958, مصر",
+        "city": "قريه البعيرات",
+        "country": "مصر",
+        "rating": 4.6,
+        "reviews": 24000,
+        "popularity_score": 94,
+        "popularity": "High",
+        "latitude": 25.7204945,
+        "longitude": 32.6104405,
+        "google_maps": "https://www.google.com/maps?q=25.7204945,32.6104405",
+        "image_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQUElRDklODUlRDglQUIlRDglQTclRDklODQlRDglQTclMjAlRDklODUlRDklODUlRDklODYlRDklODglRDklODYlMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODY1NzcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-115780911"
+      }
+    ]
+  },
+  "luxor::place::مطعم المرسم": {
+    "cached_at": "2026-07-12T17:18:02.189497",
+    "data": []
+  },
+  "luxor::place::متحف الأقصر": {
+    "cached_at": "2026-07-12T17:18:15.420305",
+    "data": [
+      {
+        "name": "متحف الأقصر",
+        "address": "شارع متحف الاقصر, الكرنك القديم, الأقصر, 81693, مصر",
+        "city": "الكرنك القديم",
+        "country": "مصر",
+        "rating": 4.6,
+        "reviews": 4100,
+        "popularity_score": 94,
+        "popularity": "High",
+        "latitude": 25.7078795,
+        "longitude": 32.6454031,
+        "google_maps": "https://www.google.com/maps?q=25.7078795,32.6454031",
+        "image_url": "https://images.unsplash.com/photo-1762081570837-0c8cb4120475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQTclRDklODQlRDklODMlRDglQjElRDklODYlRDklODMlMjAlRDglQTclRDklODQlRDklODIlRDglQUYlRDklOEElRDklODV8ZW58MHwwfHx8MTc4Mzg2NTg4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-603872381"
+      }
+    ]
+  },
+  "luxor::place::بازار الأقصر": {
+    "cached_at": "2026-07-12T17:18:26.531786",
+    "data": [
+      {
+        "name": "بازار الأقصر",
+        "address": "بازار, شارع عبد الحميد طه سعودى, Souk de Louxor, مدينه الاقصر, الأقصر, 85951, مصر",
+        "city": "Luxor",
+        "country": "مصر",
+        "rating": 4.1,
+        "reviews": 4500,
+        "popularity_score": 86,
+        "popularity": "High",
+        "latitude": 25.7020062,
+        "longitude": 32.6439595,
+        "google_maps": "https://www.google.com/maps?q=25.7020062,32.6439595",
+        "image_url": "https://images.unsplash.com/photo-1632944398987-494eebe663be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQTglRDglQTclRDglQjIlRDglQTclRDglQjElMjAlRDglQTclRDklODQlRDglQTMlRDklODIlRDglQjUlRDglQjElMjBMdXhvciUyMEVneXB0fGVufDB8MHx8fDE3ODM4NjU4OTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-684407338"
+      }
+    ]
+  },
+  "aswan::place::mövenpick resort aswan": {
+    "cached_at": "2026-07-12T21:15:46.219138",
+    "data": [
+      {
+        "name": "Mövenpick Resort Aswan",
+        "address": "Mövenpick Resort Aswan, loop from Nubialin, Siou, أسوان, 81511, مصر",
+        "city": "Siou",
+        "country": "مصر",
+        "rating": 4.5,
+        "reviews": 7500,
+        "popularity_score": 92,
+        "popularity": "High",
+        "latitude": 24.0932938,
+        "longitude": 32.8915243,
+        "google_maps": "https://www.google.com/maps?q=24.0932938,32.8915243",
+        "image_url": "https://images.unsplash.com/photo-1696603975252-9f4b02807348?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxTaW91fGVufDB8MHx8fDE3ODM4ODAxMzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-1132901254"
+      }
+    ]
+  },
+  "aswan::place::جزيرة هيصة": {
+    "cached_at": "2026-07-12T21:15:49.419541",
+    "data": [
+      {
+        "name": "جزيرة هيصة",
+        "address": "جزيرة هيصة, أسوان, مصر",
+        "city": "Aswan",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 24.0129528,
+        "longitude": 32.8780571,
+        "google_maps": "https://www.google.com/maps?q=24.0129528,32.8780571",
+        "image_url": "https://images.unsplash.com/photo-1633033254409-bd538e785f51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQUMlRDglQjIlRDklOEElRDglQjElRDglQTklMjAlRDklODclRDklOEElRDglQjUlRDglQTklMjBBc3dhbiUyMEVneXB0fGVufDB8MHx8fDE3ODM4ODAxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-2609814496"
+      }
+    ]
+  },
+  "aswan::place::el dokka restaurant": {
+    "cached_at": "2026-07-12T21:16:08.154287",
+    "data": [
+      {
+        "name": "El Dokka Restaurant",
+        "address": "El Jokka, طريق محطة المياه, جبل تقوق, أسوان, 81529, مصر",
+        "city": "جبل تقوق",
+        "country": "مصر",
+        "rating": 4.3,
+        "reviews": 2100,
+        "popularity_score": 88,
+        "popularity": "High",
+        "latitude": 24.0827001,
+        "longitude": 32.884647,
+        "google_maps": "https://www.google.com/maps?q=24.0827001,32.884647",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+        "place_id": "osm-node-2691881571"
+      }
+    ]
+  },
+  "aswan::place::معبد فيلة": {
+    "cached_at": "2026-07-12T21:16:19.491464",
+    "data": [
+      {
+        "name": "معبد فيلة",
+        "address": "معبد فيلة, 25, شاش, أسوان, 81531, مصر",
+        "city": "شاش",
+        "country": "مصر",
+        "rating": 4.7,
+        "reviews": 14500,
+        "popularity_score": 96,
+        "popularity": "High",
+        "latitude": 24.0252548,
+        "longitude": 32.8841893,
+        "google_maps": "https://www.google.com/maps?q=24.0252548,32.8841893",
+        "image_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDglQjklRDglQTglRDglQUYlMjAlRDklODElRDklOEElRDklODQlRDglQTklMjAlRDglQjQlRDglQTclRDglQjQlMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODgwMTcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-93872388"
+      }
+    ]
+  },
+  "luxor::place::steigenberger nile palace": {
+    "cached_at": "2026-07-12T21:18:05.614100",
+    "data": []
+  },
+  "luxor::place::el kababgy restaurant": {
+    "cached_at": "2026-07-12T21:18:21.099738",
+    "data": [
+      {
+        "name": "El Kababgy Restaurant",
+        "address": "El Kababgy, شارع كورنيش النيل, مدينه الاقصر, الأقصر, 85951, مصر",
+        "city": "Luxor",
+        "country": "مصر",
+        "rating": 4.4,
+        "reviews": 260,
+        "popularity_score": 83,
+        "popularity": "High",
+        "latitude": 25.6967102,
+        "longitude": 32.6360606,
+        "google_maps": "https://www.google.com/maps?q=25.6967102,32.6360606",
+        "image_url": "https://images.unsplash.com/photo-1587975844610-40f1ad10d07e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxMdXhvcnxlbnwwfDB8fHwxNzgzODgwMjkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-10841479505"
+      }
+    ]
+  },
+  "luxor::place::رحلة بالفلوكة في النيل": {
+    "cached_at": "2026-07-12T21:18:37.188970",
+    "data": [
+      {
+        "name": "أولاد رجب",
+        "address": "Luxor",
+        "city": "Luxor",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 25.6939455,
+        "longitude": 32.6400222,
+        "google_maps": "https://www.google.com/maps?q=25.6939455,32.6400222",
+        "image_url": "https://images.unsplash.com/photo-1759212477157-ab9b2411d4d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQTMlRDklODglRDklODQlRDglQTclRDglQUYlMjAlRDglQjElRDglQUMlRDglQTglMjBMdXhvciUyMEVneXB0fGVufDB8MHx8fDE3ODM4ODAzMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-5121862927"
+      }
+    ]
+  },
+  "cairo::place::قلعة صلاح الدين الأيوبي": {
+    "cached_at": "2026-07-12T21:47:04.442108",
+    "data": [
+      {
+        "name": "قلعة صلاح الدين الأيوبي",
+        "address": "قلعة صلاح الدين, شارع المتحف الحربي القومى, الحطابة, الجيوشى, القاهرة, 11636, مصر",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": 4.7,
+        "reviews": 53000,
+        "popularity_score": 96,
+        "popularity": "High",
+        "latitude": 30.0292997,
+        "longitude": 31.2615831,
+        "google_maps": "https://www.google.com/maps?q=30.0292997,31.2615831",
+        "image_url": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODIlRDklODQlRDglQjklRDglQTklMjAlRDglQjUlRDklODQlRDglQTclRDglQUQlMjAlRDglQTclRDklODQlRDglQUYlRDklOEElRDklODYlMjAlRDglQTclRDklODQlRDglQTMlRDklOEElRDklODglRDglQTglRDklOEElMjBDYWlybyUyMEVneXB0fGVufDB8MHx8fDE3ODM4ODIwMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-24908286"
+      }
+    ]
+  },
+  "cairo::place::كشري أبو طارق": {
+    "cached_at": "2026-07-12T21:47:22.191853",
+    "data": [
+      {
+        "name": "كشري أبو طارق",
+        "address": "كشري أبو طارق, 40, شارع شمبليون, معروف, الأزبكية, القاهرة, 11956, مصر",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": 4.3,
+        "reviews": 31000,
+        "popularity_score": 90,
+        "popularity": "High",
+        "latitude": 30.0502517,
+        "longitude": 31.2377312,
+        "google_maps": "https://www.google.com/maps?q=30.0502517,31.2377312",
+        "image_url": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODMlRDglQjQlRDglQjElRDklOEElMjAlRDglQTMlRDglQTglRDklODglMjAlRDglQjclRDglQTclRDglQjElRDklODIlMjBDYWlybyUyMEVneXB0fGVufDB8MHx8fDE3ODM4ODIwMjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-767418990"
+      }
+    ]
+  },
+  "cairo::place::شارع المعز لدين الله الفاطمي": {
+    "cached_at": "2026-07-12T21:47:32.349994",
+    "data": [
+      {
+        "name": "شارع المعز لدين الله الفاطمي",
+        "address": "شارع المعز لدين الله الفاطمي, خان الخليلى, الغورية, القاهرة, 11261, مصر",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": 4.7,
+        "reviews": 32000,
+        "popularity_score": 96,
+        "popularity": "High",
+        "latitude": 30.0493117,
+        "longitude": 31.2611319,
+        "google_maps": "https://www.google.com/maps?q=30.0493117,31.2611319",
+        "image_url": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQjQlRDglQTclRDglQjElRDglQjklMjAlRDglQTclRDklODQlRDklODUlRDglQjklRDglQjIlMjAlRDklODQlRDglQUYlRDklOEElRDklODYlMjAlRDglQTclRDklODQlRDklODQlRDklODclMjAlRDglQTclRDklODQlRDklODElRDglQTclRDglQjclRDklODUlRDklOEElMjBDYWlybyUyMEVneXB0fGVufDB8MHx8fDE3ODM4ODIwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-1472244043"
+      }
+    ]
+  },
+  "cairo::place::مقهى الفيشاوي": {
+    "cached_at": "2026-07-12T21:47:45.126388",
+    "data": [
+      {
+        "name": "مقهى الفيشاوي",
+        "address": "قهوة الفيشاوي, شارع جسر السويس, حلميه النعام, حدائق الزيتون, القاهرة, 11777, مصر",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": 4.1,
+        "reviews": 11000,
+        "popularity_score": 86,
+        "popularity": "High",
+        "latitude": 30.1095975,
+        "longitude": 31.3276239,
+        "google_maps": "https://www.google.com/maps?q=30.1095975,31.3276239",
+        "image_url": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxDYWlyb3xlbnwwfDB8fHwxNzgzODE0NjkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-4234554605"
+      }
+    ]
+  },
+  "cairo::place::كبابجي فرحات": {
+    "cached_at": "2026-07-12T21:48:22.925841",
+    "data": [
+      {
+        "name": "مطعم البرنس",
+        "address": "Cairo",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": 4.1,
+        "reviews": 26000,
+        "popularity_score": 86,
+        "popularity": "High",
+        "latitude": 30.0469148,
+        "longitude": 31.2414334,
+        "google_maps": "https://www.google.com/maps?q=30.0469148,31.2414334",
+        "image_url": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxDYWlyb3xlbnwwfDB8fHwxNzgzODE0NjkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-1259516982"
+      }
+    ]
+  },
+  "cairo::place::فندق ماريوت عمر الخيام": {
+    "cached_at": "2026-07-12T21:48:38.176287",
+    "data": [
+      {
+        "name": "فندق ماريوت عمر الخيام",
+        "address": "ماريوت القاهرة, 16, شارع الموسيقار محمد عبد الوهاب, الجزيره, القاهرة, 12344, مصر",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": 4.4,
+        "reviews": 2500,
+        "popularity_score": 90,
+        "popularity": "High",
+        "latitude": 30.0568203,
+        "longitude": 31.2244824,
+        "google_maps": "https://www.google.com/maps?q=30.0568203,31.2244824",
+        "image_url": "https://images.unsplash.com/photo-1722264221001-211fd811a57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODElRDklODYlRDglQUYlRDklODIlMjAlRDklODUlRDglQTclRDglQjElRDklOEElRDklODglRDglQUElMjAlRDglQjklRDklODUlRDglQjElMjAlRDglQTclRDklODQlRDglQUUlRDklOEElRDglQTclRDklODUlMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODgyMTE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-213182648"
+      }
+    ]
+  },
+  "giza::place::أهرامات الجيزة": {
+    "cached_at": "2026-07-12T21:48:44.738140",
+    "data": [
+      {
+        "name": "أهرامات الجيزة",
+        "address": "أهرامات الجيزة, الجيزة, مصر",
+        "city": "Giza",
+        "country": "مصر",
+        "rating": 4.8,
+        "reviews": 130000,
+        "popularity_score": 97,
+        "popularity": "High",
+        "latitude": 29.9707813,
+        "longitude": 31.1242335,
+        "google_maps": "https://www.google.com/maps?q=29.9707813,31.1242335",
+        "image_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQTMlRDklODclRDglQjElRDglQTclRDklODUlRDglQTclRDglQUElMjAlRDglQTclRDklODQlRDglQUMlRDklOEElRDglQjIlRDglQTklMjBHaXphJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg4MjEyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-73227488"
+      }
+    ]
+  },
+  "giza::place::مطعم أبو شقرة": {
+    "cached_at": "2026-07-12T21:48:50.847642",
+    "data": [
+      {
+        "name": "مطعم أبو شقرة",
+        "address": "مطعم أبو شقرة, شارع التسعين الجنوبي الجانبى, القطاع الثالث, أحياء اللوتس, القاهرة, 11865, مصر",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": 4.2,
+        "reviews": 2200,
+        "popularity_score": 86,
+        "popularity": "High",
+        "latitude": 30.0260701,
+        "longitude": 31.4897024,
+        "google_maps": "https://www.google.com/maps?q=30.0260701,31.4897024",
+        "image_url": "https://images.unsplash.com/photo-1709224133988-4ed97b8571d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDglQjclRDglQjklRDklODUlMjAlRDglQTMlRDglQTglRDklODglMjAlRDglQjQlRDklODIlRDglQjElRDglQTklMjBDYWlybyUyMEVneXB0fGVufDB8MHx8fDE3ODM4ODIxMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-2585939642"
+      }
+    ]
+  },
+  "cairo::place::المتحف المصري بالتحرير": {
+    "cached_at": "2026-07-12T21:49:17.937032",
+    "data": [
+      {
+        "name": "تمثال قصر النيل",
+        "address": "Cairo",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": 4.2,
+        "reviews": 2200,
+        "popularity_score": 86,
+        "popularity": "High",
+        "latitude": 30.0439664,
+        "longitude": 31.231621,
+        "google_maps": "https://www.google.com/maps?q=30.0439664,31.231621",
+        "image_url": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQUElRDklODUlRDglQUIlRDglQTclRDklODQlMjAlRDklODIlRDglQjUlRDglQjElMjAlRDglQTclRDklODQlRDklODYlRDklOEElRDklODQlMjBDYWlybyUyMEVneXB0fGVufDB8MHx8fDE3ODM4ODIxNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-5112028121"
+      }
+    ]
+  },
+  "cairo::place::حلواني العبد": {
+    "cached_at": "2026-07-12T21:49:24.864797",
+    "data": [
+      {
+        "name": "حلواني العبد",
+        "address": "حلواني العبد, شارع شبرا, البراد, روض الفرج, القاهرة, 11697, مصر",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": 4.2,
+        "reviews": 2200,
+        "popularity_score": 86,
+        "popularity": "High",
+        "latitude": 30.0857004,
+        "longitude": 31.2452845,
+        "google_maps": "https://www.google.com/maps?q=30.0857004,31.2452845",
+        "image_url": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxDYWlyb3xlbnwwfDB8fHwxNzgzODE0NjkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-9383798617"
+      }
+    ]
+  },
+  "cairo::place::كبدة البرنس": {
+    "cached_at": "2026-07-12T21:49:31.246329",
+    "data": [
+      {
+        "name": "كبدة البرنس",
+        "address": "كبدة البرنس, شارع طلعت حرب, إمبابة, الجيزة, 12652, مصر",
+        "city": "Giza",
+        "country": "مصر",
+        "rating": 4.2,
+        "reviews": 2200,
+        "popularity_score": 86,
+        "popularity": "High",
+        "latitude": 30.0806604,
+        "longitude": 31.2187486,
+        "google_maps": "https://www.google.com/maps?q=30.0806604,31.2187486",
+        "image_url": "https://images.unsplash.com/photo-1561714645-2b6505711ee0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODMlRDglQTglRDglQUYlRDglQTklMjAlRDglQTclRDklODQlRDglQTglRDglQjElRDklODYlRDglQjMlMjBHaXphJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg4MjE2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-5608865621"
+      }
+    ]
+  },
+  "alexandria::place::فندق صن رايز أرابيان بيتش ريزورت": {
+    "cached_at": "2026-07-12T22:16:40.333078",
+    "data": [
+      {
+        "name": "فندق دلتا",
+        "address": "Alexandria",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": 3.8,
+        "reviews": 200,
+        "popularity_score": 73,
+        "popularity": "High",
+        "latitude": 31.2040869,
+        "longitude": 29.9068522,
+        "google_maps": "https://www.google.com/maps?q=31.2040869,29.9068522",
+        "image_url": "https://images.unsplash.com/photo-1697546889969-27f7b5be8664?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxBbGV4YW5kcmlhfGVufDB8MHx8fDE3ODM3ODY0MTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-9349213287"
+      }
+    ]
+  },
+  "alexandria::place::مطعم سي فود": {
+    "cached_at": "2026-07-12T22:16:49.997229",
+    "data": [
+      {
+        "name": "مطعم سي فود",
+        "address": "Negro Greek Sea Food, شارع 10, ميامي, الإسكندرية, 21614, مصر",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": 4.1,
+        "reviews": 200,
+        "popularity_score": 78,
+        "popularity": "High",
+        "latitude": 31.2667401,
+        "longitude": 29.9906668,
+        "google_maps": "https://www.google.com/maps?q=31.2667401,29.9906668",
+        "image_url": "https://images.unsplash.com/photo-1779366242046-d9b850e29054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDglQjclRDglQjklRDklODUlMjAlRDglQjMlRDklOEElMjAlRDklODElRDklODglRDglQUYlMjBBbGV4YW5kcmlhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg4MzgwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-3458208447"
+      }
+    ]
+  },
+  "alexandria::place::شاطئ ستانلي": {
+    "cached_at": "2026-07-12T22:16:53.781286",
+    "data": [
+      {
+        "name": "شاطئ ستانلي",
+        "address": "شاطيء ستانلي, الإسكندرية, مصر",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": 4.2,
+        "reviews": 2200,
+        "popularity_score": 86,
+        "popularity": "High",
+        "latitude": 31.234792,
+        "longitude": 29.9500071,
+        "google_maps": "https://www.google.com/maps?q=31.234792,29.9500071",
+        "image_url": "https://images.unsplash.com/photo-1722264221001-211fd811a57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQjQlRDglQTclRDglQjclRDglQTYlMjAlRDglQjMlRDglQUElRDglQTclRDklODYlRDklODQlRDklOEElMjBBbGV4YW5kcmlhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg4MzgxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-178299610"
+      }
+    ]
+  },
+  "alexandria::place::شاطئ كليوباترا": {
+    "cached_at": "2026-07-12T22:17:13.606998",
+    "data": [
+      {
+        "name": "حدائق الشلالات",
+        "address": "Alexandria",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": 4.2,
+        "reviews": 2200,
+        "popularity_score": 86,
+        "popularity": "High",
+        "latitude": 31.2031141,
+        "longitude": 29.913465,
+        "google_maps": "https://www.google.com/maps?q=31.2031141,29.913465",
+        "image_url": "https://images.unsplash.com/photo-1718846526824-f7f30a177d3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQUQlRDglQUYlRDglQTclRDglQTYlRDklODIlMjAlRDglQTclRDklODQlRDglQjQlRDklODQlRDglQTclRDklODQlRDglQTclRDglQUElMjBBbGV4YW5kcmlhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg4MzgzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-25723236"
+      }
+    ]
+  },
+  "alexandria::place::مطعم المشويات": {
+    "cached_at": "2026-07-12T22:17:22.782604",
+    "data": [
+      {
+        "name": "مطعم المشويات",
+        "address": "Tekka Grill, طريق الجيش, السيالة غرب, قسم الجمرك, الإسكندرية, 21519, مصر",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": 4.1,
+        "reviews": 200,
+        "popularity_score": 78,
+        "popularity": "High",
+        "latitude": 31.2055086,
+        "longitude": 29.8851415,
+        "google_maps": "https://www.google.com/maps?q=31.2055086,29.8851415",
+        "image_url": "https://images.unsplash.com/photo-1722264221001-211fd811a57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDglQjclRDglQjklRDklODUlMjAlRDglQTclRDklODQlRDklODUlRDglQjQlRDklODglRDklOEElRDglQTclRDglQUElMjBBbGV4YW5kcmlhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg4Mzg0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-294999349"
+      }
+    ]
+  },
+  "alexandria::place::مركز الغوص": {
+    "cached_at": "2026-07-12T22:17:37.885953",
+    "data": [
+      {
+        "name": "King Farouk Palace",
+        "address": "Alexandria",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 31.1916198,
+        "longitude": 29.9156981,
+        "google_maps": "https://www.google.com/maps?q=31.1916198,29.9156981",
+        "image_url": "https://images.unsplash.com/photo-1633033254409-bd538e785f51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxLaW5nJTIwRmFyb3VrJTIwUGFsYWNlJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg4Mzg1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-6596916485"
+      }
+    ]
+  },
+  "alexandria::place::شاطئ أبو طاقية": {
+    "cached_at": "2026-07-12T22:18:58.551254",
+    "data": [
+      {
+        "name": "Chatby Necropolis",
+        "address": "Alexandria",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": 4.2,
+        "reviews": 220,
+        "popularity_score": 79,
+        "popularity": "High",
+        "latitude": 31.2113785,
+        "longitude": 29.9169764,
+        "google_maps": "https://www.google.com/maps?q=31.2113785,29.9169764",
+        "image_url": "https://images.unsplash.com/photo-1722264221001-211fd811a57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxDaGF0YnklMjBOZWNyb3BvbGlzJTIwQWxleGFuZHJpYSUyMEVneXB0fGVufDB8MHx8fDE3ODM4ODM5MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-265236553"
+      }
+    ]
+  },
+  "alexandria::place::مطعم الحلويات الشرقية": {
+    "cached_at": "2026-07-12T22:19:11.489597",
+    "data": [
+      {
+        "name": "اونباشي لار",
+        "address": "Alexandria",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 31.1997116,
+        "longitude": 29.9182177,
+        "google_maps": "https://www.google.com/maps?q=31.1997116,29.9182177",
+        "image_url": "https://images.unsplash.com/photo-1722264221001-211fd811a57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQTclRDklODglRDklODYlRDglQTglRDglQTclRDglQjQlRDklOEElMjAlRDklODQlRDglQTclRDglQjElMjBBbGV4YW5kcmlhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg4Mzk0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-4238401190"
+      }
+    ]
+  },
+  "alexandria::place::سوق السياحية": {
+    "cached_at": "2026-07-12T22:19:28.558889",
+    "data": [
+      {
+        "name": "اليكس ماركت جرين",
+        "address": "زين العابدين",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": 4.2,
+        "reviews": 200,
+        "popularity_score": 79,
+        "popularity": "High",
+        "latitude": 31.1944073,
+        "longitude": 29.9148716,
+        "google_maps": "https://www.google.com/maps?q=31.1944073,29.9148716",
+        "image_url": "https://images.unsplash.com/photo-1722264221001-211fd811a57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQTclRDklODQlRDklOEElRDklODMlRDglQjMlMjAlRDklODUlRDglQTclRDglQjElRDklODMlRDglQUElMjAlRDglQUMlRDglQjElRDklOEElRDklODYlMjBBbGV4YW5kcmlhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg4Mzk2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-4569232289"
+      }
+    ]
+  },
+  "alexandria::place::قلعة قايتباي": {
+    "cached_at": "2026-07-12T22:19:34.380311",
+    "data": [
+      {
+        "name": "قلعة قايتباي",
+        "address": "قلعة قايتباي, شارع قلعه قايتباى, السيالة شرق, الإسكندرية, 21556, مصر",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": 4.3,
+        "reviews": 12000,
+        "popularity_score": 90,
+        "popularity": "High",
+        "latitude": 31.2136787,
+        "longitude": 29.8854132,
+        "google_maps": "https://www.google.com/maps?q=31.2136787,29.8854132",
+        "image_url": "https://images.unsplash.com/photo-1633624646814-3a61ed3e2847?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODIlRDklODQlRDglQjklRDglQTklMjAlRDklODIlRDglQTclRDklOEElRDglQUElRDglQTglRDglQTclRDklOEElMjBBbGV4YW5kcmlhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg4Mzk3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-28826432"
+      }
+    ]
+  },
+  "alexandria::place::مطعم الأكل الشعبي": {
+    "cached_at": "2026-07-12T22:19:52.402221",
+    "data": [
+      {
+        "name": "فطير العمدة",
+        "address": "Alexandria",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": 4.2,
+        "reviews": 1300,
+        "popularity_score": 85,
+        "popularity": "High",
+        "latitude": 31.1991219,
+        "longitude": 29.9176905,
+        "google_maps": "https://www.google.com/maps?q=31.1991219,29.9176905",
+        "image_url": "https://images.unsplash.com/photo-1594808816834-f716b56c4fc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODElRDglQjclRDklOEElRDglQjElMjAlRDglQTclRDklODQlRDglQjklRDklODUlRDglQUYlRDglQTklMjBBbGV4YW5kcmlhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg4Mzk4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-3053101728"
+      }
+    ]
+  },
+  "alexandria::place::حديقة الحيوان": {
+    "cached_at": "2026-07-12T22:20:07.910515",
+    "data": [
+      {
+        "name": "حديقة الحيوان",
+        "address": "حديقة حيوان الإسكندرية, الإسكندرية, مصر",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": 4.2,
+        "reviews": 2200,
+        "popularity_score": 86,
+        "popularity": "High",
+        "latitude": 31.204993,
+        "longitude": 29.9439405,
+        "google_maps": "https://www.google.com/maps?q=31.204993,29.9439405",
+        "image_url": "https://images.unsplash.com/photo-1713116818886-f43d23f1ef73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQUQlRDglQUYlRDklOEElRDklODIlRDglQTklMjAlRDglQTclRDklODQlRDglQUQlRDklOEElRDklODglRDglQTclRDklODYlMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODg0MDAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-1486862940"
+      }
+    ]
+  },
+  "mansoura::place::مطعم المنصورة": {
+    "cached_at": "2026-07-12T22:32:31.965660",
+    "data": [
+      {
+        "name": "مطعم المنصورة",
+        "address": "مطعم ام كلثوم, شارع جامعه الدول العربية, سادس الحسنيه, المنصورة, الدقهلية, 35513, مصر",
+        "city": "Mansoura",
+        "country": "مصر",
+        "rating": 4.1,
+        "reviews": 200,
+        "popularity_score": 78,
+        "popularity": "High",
+        "latitude": 31.0447735,
+        "longitude": 31.3878398,
+        "google_maps": "https://www.google.com/maps?q=31.0447735,31.3878398",
+        "image_url": "https://images.unsplash.com/photo-1681225654713-aeebafc6f6f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDglQjclRDglQjklRDklODUlMjAlRDglQTclRDklODQlRDklODUlRDklODYlRDglQjUlRDklODglRDglQjElRDglQTklMjBNYW5zb3VyYSUyMEVneXB0fGVufDB8MHx8fDE3ODM4ODQ3NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-1419948607"
+      }
+    ]
+  },
+  "mansoura::place::سوق المنصورة": {
+    "cached_at": "2026-07-12T22:32:36.135336",
+    "data": [
+      {
+        "name": "سوق المنصورة",
+        "address": "شارع سوق الجبانات, ثالث ريحان, المنصورة, الدقهلية, 35513, مصر",
+        "city": "Mansoura",
+        "country": "مصر",
+        "rating": 4.2,
+        "reviews": 2200,
+        "popularity_score": 86,
+        "popularity": "High",
+        "latitude": 31.0397375,
+        "longitude": 31.3801694,
+        "google_maps": "https://www.google.com/maps?q=31.0397375,31.3801694",
+        "image_url": "https://images.unsplash.com/photo-1722264221001-211fd811a57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQjMlRDklODglRDklODIlMjAlRDglQTclRDklODQlRDklODUlRDklODYlRDglQjUlRDklODglRDglQjElRDglQTklMjBNYW5zb3VyYSUyMEVneXB0fGVufDB8MHx8fDE3ODM4ODQ3NTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-232264344"
+      }
+    ]
+  },
+  "mansoura::place::نادي المنصورة": {
+    "cached_at": "2026-07-12T22:32:39.009569",
+    "data": [
+      {
+        "name": "نادي المنصورة",
+        "address": "مراكز إبداع مصر الرقمية, شارع القريه الاوليمبيه, اول ميت طلخا, المنصورة, الدقهلية, 35516, مصر",
+        "city": "Mansoura",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 31.0406755,
+        "longitude": 31.3543807,
+        "google_maps": "https://www.google.com/maps?q=31.0406755,31.3543807",
+        "image_url": "https://images.unsplash.com/photo-1722264221001-211fd811a57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODYlRDglQTclRDglQUYlRDklOEElMjAlRDglQTclRDklODQlRDklODUlRDklODYlRDglQjUlRDklODglRDglQjElRDglQTklMjBNYW5zb3VyYSUyMEVneXB0fGVufDB8MHx8fDE3ODM4ODQ3NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-1172477882"
+      }
+    ]
+  },
+  "mansoura::place::مطعم الشعب": {
+    "cached_at": "2026-07-12T22:32:53.185599",
+    "data": [
+      {
+        "name": "كشرى زيزو",
+        "address": "Mansoura",
+        "city": "Mansoura",
+        "country": "مصر",
+        "rating": 4.4,
+        "reviews": 200,
+        "popularity_score": 82,
+        "popularity": "High",
+        "latitude": 31.0471209,
+        "longitude": 31.3804884,
+        "google_maps": "https://www.google.com/maps?q=31.0471209,31.3804884",
+        "image_url": "https://images.unsplash.com/photo-1699781895588-d5822c2dd3d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODMlRDglQjQlRDglQjElRDklODklMjAlRDglQjIlRDklOEElRDglQjIlRDklODglMjBNYW5zb3VyYSUyMEVneXB0fGVufDB8MHx8fDE3ODM4ODQ3NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-3119625079"
+      }
+    ]
+  },
+  "mansoura::place::حديقة المنصورة": {
+    "cached_at": "2026-07-12T22:32:57.724890",
+    "data": [
+      {
+        "name": "حديقة المنصورة",
+        "address": "حديقة قصر ثقافة المنصورة, المنصورة, الدقهلية, 35512, مصر",
+        "city": "Mansoura",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 31.0482717,
+        "longitude": 31.3866196,
+        "google_maps": "https://www.google.com/maps?q=31.0482717,31.3866196",
+        "image_url": "https://images.unsplash.com/photo-1693273647671-b25ecd2c7174?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQUQlRDglQUYlRDklOEElRDklODIlRDglQTklMjAlRDglQTclRDklODQlRDklODUlRDklODYlRDglQjUlRDklODglRDglQjElRDglQTklMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODg0Nzc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-8699415469"
+      }
+    ]
+  },
+  "mansoura::place::كافيه المنصورة": {
+    "cached_at": "2026-07-12T22:33:01.970591",
+    "data": [
+      {
+        "name": "كافيه المنصورة",
+        "address": "كافيه عاطف, شارع سامية الجمل, اول ميت طلخا, المنصورة, الدقهلية, 35516, مصر",
+        "city": "Mansoura",
+        "country": "مصر",
+        "rating": 4.2,
+        "reviews": 200,
+        "popularity_score": 79,
+        "popularity": "High",
+        "latitude": 31.0318568,
+        "longitude": 31.3645324,
+        "google_maps": "https://www.google.com/maps?q=31.0318568,31.3645324",
+        "image_url": "https://images.unsplash.com/photo-1722264221001-211fd811a57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODMlRDglQTclRDklODElRDklOEElRDklODclMjAlRDglQTclRDklODQlRDklODUlRDklODYlRDglQjUlRDklODglRDglQjElRDglQTklMjBNYW5zb3VyYSUyMEVneXB0fGVufDB8MHx8fDE3ODM4ODQ3ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-6045970885"
+      }
+    ]
+  },
+  "اسيوط::place::جامعة أسيوط": {
+    "cached_at": "2026-07-12T22:36:20.899068",
+    "data": [
+      {
+        "name": "جامعة أسيوط",
+        "address": "جامعة أسيوط, شارع سيد, الخامسة, أسيوط, 71515, مصر",
+        "city": "Assiut",
+        "country": "مصر",
+        "rating": 4.2,
+        "reviews": 2200,
+        "popularity_score": 86,
+        "popularity": "High",
+        "latitude": 27.1878419,
+        "longitude": 31.1700157,
+        "google_maps": "https://www.google.com/maps?q=27.1878419,31.1700157",
+        "image_url": "https://images.unsplash.com/photo-1633033254409-bd538e785f51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQUMlRDglQTclRDklODUlRDglQjklRDglQTklMjAlRDglQTMlRDglQjMlRDklOEElRDklODglRDglQjclMjBBc3NpdXQlMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODg0OTc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-94168975"
+      }
+    ]
+  },
+  "اسيوط::place::مطعم الكبابجي": {
+    "cached_at": "2026-07-12T22:36:28.825637",
+    "data": [
+      {
+        "name": "مطعم الكبابجي",
+        "address": "مطعم محمد رفاعي الكبابجي, حارة جنيد, الدرب الجديد, السيدة زينب, القاهرة, 11617, مصر",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": 4.1,
+        "reviews": 13000,
+        "popularity_score": 86,
+        "popularity": "High",
+        "latitude": 30.0326408,
+        "longitude": 31.2422852,
+        "google_maps": "https://www.google.com/maps?q=30.0326408,31.2422852",
+        "image_url": "https://images.unsplash.com/photo-1709224133988-4ed97b8571d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDglQjclRDglQjklRDklODUlMjAlRDglQTclRDklODQlRDklODMlRDglQTglRDglQTclRDglQTglRDglQUMlRDklOEElMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODg0OTg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-13196462601"
+      }
+    ]
+  },
+  "اسيوط::place::سوق أسيوط": {
+    "cached_at": "2026-07-12T22:36:36.508694",
+    "data": [
+      {
+        "name": "سوق أسيوط",
+        "address": "شارع سوق الخضار, رابع, أسيوط, 71789, مصر",
+        "city": "Assiut",
+        "country": "مصر",
+        "rating": 4.2,
+        "reviews": 200,
+        "popularity_score": 79,
+        "popularity": "High",
+        "latitude": 27.1766566,
+        "longitude": 31.1786931,
+        "google_maps": "https://www.google.com/maps?q=27.1766566,31.1786931",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+        "place_id": "osm-way-399883319"
+      }
+    ]
+  },
+  "اسيوط::place::مطعم حلويات شرقية": {
+    "cached_at": "2026-07-12T22:36:45.033570",
+    "data": []
+  },
+  "beni suef::place::مسجد السيد البدوي": {
+    "cached_at": "2026-07-12T22:42:20.291552",
+    "data": [
+      {
+        "name": "9D Cinema",
+        "address": "Beni Suef",
+        "city": "Beni Suef",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 29.0646308,
+        "longitude": 31.0999873,
+        "google_maps": "https://www.google.com/maps?q=29.0646308,31.0999873",
+        "image_url": "https://images.unsplash.com/photo-1782855409538-63e79ea4a1a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHw5RCUyMENpbmVtYSUyMEJlbmklMjBTdWVmJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg4NTMzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-4556816390"
+      }
+    ]
+  },
+  "beni suef::place::مطعم أبو شامة": {
+    "cached_at": "2026-07-12T22:42:33.807881",
+    "data": [
+      {
+        "name": "مطعم العجمي",
+        "address": "Beni Suef",
+        "city": "Beni Suef",
+        "country": "مصر",
+        "rating": 4.1,
+        "reviews": 200,
+        "popularity_score": 78,
+        "popularity": "High",
+        "latitude": 29.0757626,
+        "longitude": 31.1020047,
+        "google_maps": "https://www.google.com/maps?q=29.0757626,31.1020047",
+        "image_url": "https://images.unsplash.com/photo-1709224133988-4ed97b8571d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDglQjclRDglQjklRDklODUlMjAlRDglQTclRDklODQlRDglQjklRDglQUMlRDklODUlRDklOEElMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODg1MzUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-5531838622"
+      }
+    ]
+  },
+  "beni suef::place::حديقة بني سويف العامة": {
+    "cached_at": "2026-07-12T22:42:49.562322",
+    "data": [
+      {
+        "name": "الكورنيش الشرقي",
+        "address": "Beni Suef",
+        "city": "Beni Suef",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 29.0561069,
+        "longitude": 31.1019877,
+        "google_maps": "https://www.google.com/maps?q=29.0561069,31.1019877",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+        "place_id": "osm-node-11649195633"
+      }
+    ]
+  },
+  "beni suef::place::متحف بني سويف": {
+    "cached_at": "2026-07-12T22:43:00.205881",
+    "data": [
+      {
+        "name": "متحف بني سويف",
+        "address": "متحف بنى سويف, شارع الشهيد عاطف عبد العزيز, المرماح بحرى, بنى سويف, 62515, مصر",
+        "city": "المرماح بحرى",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 29.0840621,
+        "longitude": 31.1013032,
+        "google_maps": "https://www.google.com/maps?q=29.0840621,31.1013032",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+        "place_id": "osm-way-97352936"
+      }
+    ]
+  },
+  "beni suef::place::مطعم الصياد": {
+    "cached_at": "2026-07-12T22:43:20.719001",
+    "data": [
+      {
+        "name": "مطعم أوزي",
+        "address": "Beni Suef",
+        "city": "Beni Suef",
+        "country": "مصر",
+        "rating": 4.1,
+        "reviews": 200,
+        "popularity_score": 78,
+        "popularity": "High",
+        "latitude": 29.0705346,
+        "longitude": 31.0987069,
+        "google_maps": "https://www.google.com/maps?q=29.0705346,31.0987069",
+        "image_url": "https://images.unsplash.com/photo-1709224133988-4ed97b8571d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDglQjclRDglQjklRDklODUlMjAlRDglQTMlRDklODglRDglQjIlRDklOEElMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODg1Mzk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-5473052722"
+      }
+    ]
+  },
+  "beni suef::place::سوق بني سويف": {
+    "cached_at": "2026-07-12T22:54:43.512530",
+    "data": [
+      {
+        "name": "معرض شباب مصر",
+        "address": "Beni Suef",
+        "city": "Beni Suef",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 29.0768607,
+        "longitude": 31.096499,
+        "google_maps": "https://www.google.com/maps?q=29.0768607,31.096499",
+        "image_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDglQjklRDglQjElRDglQjYlMjAlRDglQjQlRDglQTglRDglQTclRDglQTglMjAlRDklODUlRDglQjUlRDglQjElMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODg1NDEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-4754155229"
+      }
+    ]
+  },
+  "beni suef::place::مuseum بني سويف": {
+    "cached_at": "2026-07-12T22:54:01.400447",
+    "data": [
+      {
+        "name": "مuseum بني سويف",
+        "address": "متحف بنى سويف, شارع الشهيد عاطف عبد العزيز, المرماح بحرى, بنى سويف, 62515, مصر",
+        "city": "المرماح بحرى",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 29.0840621,
+        "longitude": 31.1013032,
+        "google_maps": "https://www.google.com/maps?q=29.0840621,31.1013032",
+        "image_url": "https://images.unsplash.com/photo-1584719866406-c76ddee48493?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODV1c2V1bSUyMCVEOCVBOCVEOSU4NiVEOSU4QSUyMCVEOCVCMyVEOSU4OCVEOSU4QSVEOSU4MSUyMCVEOCVBNyVEOSU4NCVEOSU4NSVEOCVCMSVEOSU4NSVEOCVBNyVEOCVBRCUyMCVEOCVBOCVEOCVBRCVEOCVCMSVEOSU4OSUyMEVneXB0fGVufDB8MHx8fDE3ODM4ODYwMzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-97352936"
+      }
+    ]
+  },
+  "beni suef::place::مطعم أبو طارق": {
+    "cached_at": "2026-07-12T22:54:24.972492",
+    "data": [
+      {
+        "name": "مطعم العجمي",
+        "address": "Beni Suef",
+        "city": "Beni Suef",
+        "country": "مصر",
+        "rating": 4.1,
+        "reviews": 200,
+        "popularity_score": 78,
+        "popularity": "High",
+        "latitude": 29.0757626,
+        "longitude": 31.1020047,
+        "google_maps": "https://www.google.com/maps?q=29.0757626,31.1020047",
+        "image_url": "https://images.unsplash.com/photo-1709224133988-4ed97b8571d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDglQjclRDglQjklRDklODUlMjAlRDglQTclRDklODQlRDglQjklRDglQUMlRDklODUlRDklOEElMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODg2MDYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-5531838622"
+      }
+    ]
+  },
+  "beni suef::place::نادي بني سويف الرياضي": {
+    "cached_at": "2026-07-12T22:54:46.931469",
+    "data": [
+      {
+        "name": "نادي بني سويف الرياضي",
+        "address": "نادى بنى سويف الرياضى, شارع احمد عرابى, الجزيرة قبلى, بنى سويف, 62513, مصر",
+        "city": "الجزيرة قبلى",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 29.062525,
+        "longitude": 31.1002832,
+        "google_maps": "https://www.google.com/maps?q=29.062525,31.1002832",
+        "image_url": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODYlRDglQTclRDglQUYlRDklOEElMjAlRDglQTglRDklODYlRDklOEElMjAlRDglQjMlRDklODglRDklOEElRDklODElMjAlRDglQTclRDklODQlRDglQjElRDklOEElRDglQTclRDglQjYlRDklOEElMjAlRDglQTclRDklODQlRDglQUMlRDglQjIlRDklOEElRDglQjElRDglQTklMjAlRDklODIlRDglQTglRDklODQlRDklODklMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODg2MDg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-4515929390"
+      }
+    ]
+  },
+  "cairo::hotels": {
+    "cached_at": "2026-07-13T00:14:03.342211",
+    "data": [
+      {
+        "name": "فندق لونشان",
+        "address": "Cairo",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 30.0638579,
+        "longitude": 31.2191142,
+        "google_maps": "https://www.google.com/maps?q=30.0638579,31.2191142",
+        "image_url": "https://images.unsplash.com/photo-1626692880062-35c360fb6afc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODElRDklODYlRDglQUYlRDklODIlMjAlRDklODQlRDklODglRDklODYlRDglQjQlRDglQTclRDklODYlMjBDYWlybyUyMEVneXB0fGVufDB8MHx8fDE3ODM4OTA4MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-366451946"
+      },
+      {
+        "name": "فندق أم كلثوم",
+        "address": "Cairo",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 30.0645602,
+        "longitude": 31.2159286,
+        "google_maps": "https://www.google.com/maps?q=30.0645602,31.2159286",
+        "image_url": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxDYWlyb3xlbnwwfDB8fHwxNzgzODE0NjkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-366456417"
+      },
+      {
+        "name": "بنسيون روما",
+        "address": "Cairo",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 30.0515136,
+        "longitude": 31.244547,
+        "google_maps": "https://www.google.com/maps?q=30.0515136,31.244547",
+        "image_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQTglRDklODYlRDglQjMlRDklOEElRDklODglRDklODYlMjAlRDglQjElRDklODglRDklODUlRDglQTclMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODkwODM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-387488353"
+      },
+      {
+        "name": "جراند حيات",
+        "address": "Cairo",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 30.0348063,
+        "longitude": 31.2276294,
+        "google_maps": "https://www.google.com/maps?q=30.0348063,31.2276294",
+        "image_url": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxDYWlyb3xlbnwwfDB8fHwxNzgzNzk0MjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-474812093"
+      },
+      {
+        "name": "شهرزاد",
+        "address": "Cairo",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 30.056728,
+        "longitude": 31.2154322,
+        "google_maps": "https://www.google.com/maps?q=30.056728,31.2154322",
+        "image_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQjQlRDklODclRDglQjElRDglQjIlRDglQTclRDglQUYlMjBDYWlybyUyMEVneXB0fGVufDB8MHx8fDE3ODM4OTA4NDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-621486721"
+      },
+      {
+        "name": "فندق الأهرامات الثلاثة",
+        "address": "الجيزة",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 29.999636,
+        "longitude": 31.1763862,
+        "google_maps": "https://www.google.com/maps?q=29.999636,31.1763862",
+        "image_url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODElRDklODYlRDglQUYlRDklODIlMjAlRDglQTclRDklODQlRDglQTMlRDklODclRDglQjElRDglQTclRDklODUlRDglQTclRDglQUElMjAlRDglQTclRDklODQlRDglQUIlRDklODQlRDglQTclRDglQUIlRDglQTklMjBFZ3lwdHxlbnwwfDB8fHwxNzgzODkwODQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-820771851"
+      }
+    ]
+  },
+  "alexandria::restaurants": {
+    "cached_at": "2026-07-13T00:14:42.853776",
+    "data": [
+      {
+        "name": "Tekka Grill",
+        "address": "Alexandria",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 31.2055086,
+        "longitude": 29.8851415,
+        "google_maps": "https://www.google.com/maps?q=31.2055086,29.8851415",
+        "image_url": "https://images.unsplash.com/photo-1697546889969-27f7b5be8664?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxBbGV4YW5kcmlhfGVufDB8MHx8fDE3ODM3ODYyNzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-294999349"
+      },
+      {
+        "name": "سوق السمك",
+        "address": "Alexandria",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 31.2050681,
+        "longitude": 29.8854848,
+        "google_maps": "https://www.google.com/maps?q=31.2050681,29.8854848",
+        "image_url": "https://images.unsplash.com/photo-1722264221001-211fd811a57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQjMlRDklODglRDklODIlMjAlRDglQTclRDklODQlRDglQjMlRDklODUlRDklODMlMjBBbGV4YW5kcmlhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg5MDg3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-294999596"
+      },
+      {
+        "name": "أحمد محمد فول",
+        "address": "الإسكندرية",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 31.2001582,
+        "longitude": 29.9006059,
+        "google_maps": "https://www.google.com/maps?q=31.2001582,29.9006059",
+        "image_url": "https://images.unsplash.com/photo-1718846526824-f7f30a177d3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQTMlRDglQUQlRDklODUlRDglQUYlMjAlRDklODUlRDglQUQlRDklODUlRDglQUYlMjAlRDklODElRDklODglRDklODQlMjBBbGV4YW5kcmlhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg5MDg3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-2284013278"
+      },
+      {
+        "name": "Pizza Hut",
+        "address": "Alexandria",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 31.205036,
+        "longitude": 29.9046055,
+        "google_maps": "https://www.google.com/maps?q=31.205036,29.9046055",
+        "image_url": "https://images.unsplash.com/photo-1783474845702-ca764753f27d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxQaXp6YSUyMEh1dCUyMEVneXB0fGVufDB8MHx8fDE3ODM4OTA4ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-2691931978"
+      },
+      {
+        "name": "ستوديو مصر",
+        "address": "Alexandria",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 31.2414332,
+        "longitude": 29.9574545,
+        "google_maps": "https://www.google.com/maps?q=31.2414332,29.9574545",
+        "image_url": "https://images.unsplash.com/photo-1722264221001-211fd811a57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQjMlRDglQUElRDklODglRDglQUYlRDklOEElRDklODglMjAlRDklODUlRDglQjUlRDglQjElMjBBbGV4YW5kcmlhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg5MDg4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-2696147394"
+      },
+      {
+        "name": "لبانيرو",
+        "address": "Alexandria",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 31.2415789,
+        "longitude": 29.9572943,
+        "google_maps": "https://www.google.com/maps?q=31.2415789,29.9572943",
+        "image_url": "https://images.unsplash.com/photo-1722264221001-211fd811a57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODQlRDglQTglRDglQTclRDklODYlRDklOEElRDglQjElRDklODglMjBBbGV4YW5kcmlhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg5MDg4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-2696147395"
+      }
+    ]
+  },
+  "alexandria::museums": {
+    "cached_at": "2026-07-13T00:16:16.783488",
+    "data": [
+      {
+        "name": "mahmoud saied museum",
+        "address": "Alexandria",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 31.2451159,
+        "longitude": 29.9685081,
+        "google_maps": "https://www.google.com/maps?q=31.2451159,29.9685081",
+        "image_url": "https://images.unsplash.com/photo-1708090753053-97d9a0367420?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxtYWhtb3VkJTIwc2FpZWQlMjBtdXNldW0lMjBBbGV4YW5kcmlhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg5MDk3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-6412444685"
+      },
+      {
+        "name": "عامود السوارى",
+        "address": "Alexandria",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 31.1825811,
+        "longitude": 29.8963926,
+        "google_maps": "https://www.google.com/maps?q=31.1825811,29.8963926",
+        "image_url": "https://images.unsplash.com/photo-1697546889969-27f7b5be8664?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxBbGV4YW5kcmlhfGVufDB8MHx8fDE3ODM3OTA1NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-1263172956"
+      },
+      {
+        "name": "تمثال سعد زغلول",
+        "address": "Alexandria",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 31.2009138,
+        "longitude": 29.8994049,
+        "google_maps": "https://www.google.com/maps?q=31.2009138,29.8994049",
+        "image_url": "https://images.unsplash.com/photo-1722264221001-211fd811a57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQUElRDklODUlRDglQUIlRDglQTclRDklODQlMjAlRDglQjMlRDglQjklRDglQUYlMjAlRDglQjIlRDglQkElRDklODQlRDklODglRDklODQlMjBBbGV4YW5kcmlhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg5MDk3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-5810401995"
+      },
+      {
+        "name": "متحف محمود سعيد",
+        "address": "Alexandria",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 31.2444496,
+        "longitude": 29.9695783,
+        "google_maps": "https://www.google.com/maps?q=31.2444496,29.9695783",
+        "image_url": "https://images.unsplash.com/photo-1633624646814-3a61ed3e2847?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDglQUElRDglQUQlRDklODElMjAlRDklODUlRDglQUQlRDklODUlRDklODglRDglQUYlMjAlRDglQjMlRDglQjklRDklOEElRDglQUYlMjBBbGV4YW5kcmlhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg5MDk3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-6416332108"
+      },
+      {
+        "name": "ميدان النصر",
+        "address": "Alexandria",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 31.1982851,
+        "longitude": 29.8880226,
+        "google_maps": "https://www.google.com/maps?q=31.1982851,29.8880226",
+        "image_url": "https://images.unsplash.com/photo-1722264221001-211fd811a57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDklOEElRDglQUYlRDglQTclRDklODYlMjAlRDglQTclRDklODQlRDklODYlRDglQjUlRDglQjElMjBBbGV4YW5kcmlhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg5MDk3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-6943200446"
+      },
+      {
+        "name": "متحف كڤافيس",
+        "address": "Alexandria",
+        "city": "Alexandria",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 31.1976064,
+        "longitude": 29.9012293,
+        "google_maps": "https://www.google.com/maps?q=31.1976064,29.9012293",
+        "image_url": "https://images.unsplash.com/photo-1633624646814-3a61ed3e2847?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDglQUElRDglQUQlRDklODElMjAlRDklODMlREElQTQlRDglQTclRDklODElRDklOEElRDglQjMlMjBBbGV4YW5kcmlhJTIwRWd5cHR8ZW58MHwwfHx8MTc4Mzg5MDk3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-9629067137"
+      }
+    ]
+  },
+  "cairo::restaurants": {
+    "cached_at": "2026-07-13T07:18:55.099940",
+    "data": [
+      {
+        "name": "ديدوس أل دينتيه",
+        "address": "Cairo",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 30.0693145,
+        "longitude": 31.2198471,
+        "google_maps": "https://www.google.com/maps?q=30.0693145,31.2198471",
+        "image_url": "https://images.unsplash.com/photo-1539768942893-daf53e448371?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQUYlRDklOEElRDglQUYlRDklODglRDglQjMlMjAlRDglQTMlRDklODQlMjAlRDglQUYlRDklOEElRDklODYlRDglQUElRDklOEElRDklODclMjBFZ3lwdHxlbnwwfDB8fHwxNzgzOTE2MzE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-366465165"
+      },
+      {
+        "name": "Maison Thomas",
+        "address": "Cairo",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 30.0591691,
+        "longitude": 31.2241754,
+        "google_maps": "https://www.google.com/maps?q=30.0591691,31.2241754",
+        "image_url": "https://images.unsplash.com/photo-1696505345118-fc206b59ebff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxNYWlzb24lMjBUaG9tYXMlMjBFZ3lwdHxlbnwwfDB8fHwxNzgzOTE2MzIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-366467852"
+      },
+      {
+        "name": "بلو نيل بوت",
+        "address": "Cairo",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 30.0454853,
+        "longitude": 31.2286107,
+        "google_maps": "https://www.google.com/maps?q=30.0454853,31.2286107",
+        "image_url": "https://images.unsplash.com/photo-1754123367229-82ed51bab099?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQTglRDklODQlRDklODglMjAlRDklODYlRDklOEElRDklODQlMjAlRDglQTglRDklODglRDglQUF8ZW58MHwwfHx8MTc4MzkxNjMyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-384964690"
+      },
+      {
+        "name": "بوتيه بالميرا",
+        "address": "Cairo",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 30.0922905,
+        "longitude": 31.3235093,
+        "google_maps": "https://www.google.com/maps?q=30.0922905,31.3235093",
+        "image_url": "https://images.unsplash.com/photo-1626692880062-35c360fb6afc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQTglRDklODglRDglQUElRDklOEElRDklODclMjAlRDglQTglRDglQTclRDklODQlRDklODUlRDklOEElRDglQjElRDglQTclMjBDYWlybyUyMEVneXB0fGVufDB8MHx8fDE3ODM5MTYzMzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-392331561"
+      },
+      {
+        "name": "شنتيي",
+        "address": "Cairo",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 30.0889363,
+        "longitude": 31.3221127,
+        "google_maps": "https://www.google.com/maps?q=30.0889363,31.3221127",
+        "image_url": "https://images.unsplash.com/photo-1626692880062-35c360fb6afc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDglQjQlRDklODYlRDglQUElRDklOEElRDklOEElMjBDYWlybyUyMEVneXB0fGVufDB8MHx8fDE3ODM5MTYzMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-411898821"
+      },
+      {
+        "name": "مطعم كازينو الإيطالي",
+        "address": "Cairo",
+        "city": "Cairo",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 30.017196,
+        "longitude": 31.2179289,
+        "google_maps": "https://www.google.com/maps?q=30.017196,31.2179289",
+        "image_url": "https://images.unsplash.com/photo-1709224133988-4ed97b8571d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODUlRDglQjclRDglQjklRDklODUlMjAlRDklODMlRDglQTclRDglQjIlRDklOEElRDklODYlRDklODglMjAlRDglQTclRDklODQlRDglQTUlRDklOEElRDglQjclRDglQTclRDklODQlRDklOEElMjBDYWlybyUyMEVneXB0fGVufDB8MHx8fDE3ODM5MTYzMzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-478582302"
+      }
+    ]
+  },
+  "luxor::hotels": {
+    "cached_at": "2026-07-13T08:35:09.805358",
+    "data": [
+      {
+        "name": "Winter's Palace",
+        "address": "El Zinia Gebly Street, Luxor",
+        "city": "Luxor",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 25.6967999,
+        "longitude": 32.6369542,
+        "google_maps": "https://www.google.com/maps?q=25.6967999,32.6369542",
+        "image_url": "https://images.unsplash.com/photo-1722578460172-34a3c24687f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxXaW50ZXIlMjdzJTIwUGFsYWNlJTIwTHV4b3IlMjBFZ3lwdHxlbnwwfDB8fHwxNzgzOTIwOTAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-684407073"
+      },
+      {
+        "name": "النخيل",
+        "address": "Luxor",
+        "city": "Luxor",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 25.7048919,
+        "longitude": 32.6315569,
+        "google_maps": "https://www.google.com/maps?q=25.7048919,32.6315569",
+        "image_url": "https://images.unsplash.com/photo-1587975844610-40f1ad10d07e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxMdXhvcnxlbnwwfDB8fHwxNzgzODgwMjkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-282356506"
+      },
+      {
+        "name": "سوفيتيل - الكرنك",
+        "address": "Luxor",
+        "city": "Luxor",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 25.7401425,
+        "longitude": 32.6637268,
+        "google_maps": "https://www.google.com/maps?q=25.7401425,32.6637268",
+        "image_url": "https://images.unsplash.com/photo-1587975844610-40f1ad10d07e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxMdXhvcnxlbnwwfDB8fHwxNzgzODgwMjkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-684407274"
+      },
+      {
+        "name": "إيبرأوتيل",
+        "address": "Luxor",
+        "city": "Luxor",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 25.6951358,
+        "longitude": 32.6351118,
+        "google_maps": "https://www.google.com/maps?q=25.6951358,32.6351118",
+        "image_url": "https://images.unsplash.com/photo-1587975844610-40f1ad10d07e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxMdXhvcnxlbnwwfDB8fHwxNzgzODgwMjkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-764672289"
+      },
+      {
+        "name": "فندق الأقصر",
+        "address": "Luxor",
+        "city": "Luxor",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 25.7051781,
+        "longitude": 32.6428495,
+        "google_maps": "https://www.google.com/maps?q=25.7051781,32.6428495",
+        "image_url": "https://images.unsplash.com/photo-1679594384071-0e25b01f8aca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODElRDklODYlRDglQUYlRDklODIlMjAlRDglQTclRDklODQlRDglQTMlRDklODIlRDglQjUlRDglQjElMjBMdXhvciUyMEVneXB0fGVufDB8MHx8fDE3ODM5MjA5MDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-1239092869"
+      },
+      {
+        "name": "El Fayrouz",
+        "address": "Luxor",
+        "city": "Luxor",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 25.7054163,
+        "longitude": 32.6318026,
+        "google_maps": "https://www.google.com/maps?q=25.7054163,32.6318026",
+        "image_url": "https://images.unsplash.com/photo-1632944398987-494eebe663be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxFbCUyMEZheXJvdXolMjBMdXhvciUyMEVneXB0fGVufDB8MHx8fDE3ODM5MjA5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-node-2127571695"
+      }
+    ]
+  },
+  "فندق سما العريش::place::فتدق سما العريش": {
+    "cached_at": "2026-07-13T09:36:51.330507",
+    "data": []
+  },
+  "فندق سما العريش::place::فنادق فندق سما العريش قريبة من معابد": {
+    "cached_at": "2026-07-13T09:38:09.215178",
+    "data": []
+  },
+  "unknown::place::فندق سما العريش": {
+    "cached_at": "2026-07-13T09:41:07.948670",
+    "data": []
+  },
+  "unknown::place::فندق سونستا سانت جورج": {
+    "cached_at": "2026-07-13T09:42:59.923775",
+    "data": [
+      {
+        "name": "فندق سونستا سانت جورج",
+        "address": "SONESTA ST GEORGE HOTEL, شارع خالد بن الوليد, مدينه الاقصر, نجع الخطبة, الأقصر, 85111, مصر",
+        "city": "نجع الخطبة",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 25.6875194,
+        "longitude": 32.6308823,
+        "google_maps": "https://www.google.com/maps?q=25.6875194,32.6308823",
+        "image_url": "https://images.unsplash.com/photo-1655755001673-0d6ef8b25496?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHwlRDklODElRDklODYlRDglQUYlRDklODIlMjAlRDglQjMlRDklODglRDklODYlRDglQjMlRDglQUElRDglQTclMjAlRDglQjMlRDglQTclRDklODYlRDglQUElMjAlRDglQUMlRDklODglRDglQjElRDglQUMlMjAlRDklODYlRDglQUMlRDglQjklMjAlRDglQTclRDklODQlRDglQUUlRDglQjclRDglQTglRDglQTklMjBFZ3lwdHxlbnwwfDB8fHwxNzgzOTI0OTc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-476622605"
+      }
+    ]
+  },
+  "unknown::place::royal house hotel": {
+    "cached_at": "2026-07-13T09:56:08.065281",
+    "data": [
+      {
+        "name": "Royal House Hotel",
+        "address": "Royal House Hotel, شارع المهدى, مدينه الاقصر, نجع الخطبة, الأقصر, 85111, مصر",
+        "city": "نجع الخطبة",
+        "country": "مصر",
+        "rating": null,
+        "reviews": null,
+        "popularity_score": 0,
+        "popularity": "Low",
+        "latitude": 25.6883499,
+        "longitude": 32.6349913,
+        "google_maps": "https://www.google.com/maps?q=25.6883499,32.6349913",
+        "image_url": "https://images.unsplash.com/photo-1698163454653-2dd7f308807c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5ODkzMjF8MHwxfHNlYXJjaHwxfHxSb3lhbCUyMEhvdXNlJTIwSG90ZWx8ZW58MHwwfHx8MTc4Mzg2NTU0MHww&ixlib=rb-4.1.0&q=80&w=1080",
+        "place_id": "osm-way-476622609"
+      }
+    ]
+  },
+  "unknown::place::فندق بوب مارلي بيس الأقصر": {
+    "cached_at": "2026-07-13T12:29:46.133588",
+    "data": []
+  }
+}
