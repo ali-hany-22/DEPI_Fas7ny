@@ -40,4 +40,4 @@ FastAPI نفسه بـ StaticFiles) يقدر يسيبه.
 
 الألوان والخطوط متعرفة كـ CSS variables في `src/index.css`
 (`--color-gold`, `--color-nile`, `--color-coral`, `--color-sand`،
-Cairo للعناوين، IBM Plex Sans Arabic للنصوص) - نفس نظام رِحلة.
+Cairo للعناوين، IBM Plex Sans Arabic للنصوص) - نفس نظام رِحلة
